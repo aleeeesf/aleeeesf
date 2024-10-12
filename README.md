@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP projects & Artificial Vision start-intermediate level projects<br>🌱 Learning about Data Science and Machine Learning<br>⚡ Sometimes I go out of the box and like to try different areas like web or operating systems.<br>🤝 Open to any project, contact us?
+🔭 I’m currently working on NLP projects & Artificial Vision start-intermediate level projects<br>🌱 Learning about Data Science and Machine Learning<br>⚡ Sometimes I go out of the box and like to try different areas like BackEnd Web development or Operating Systems.<br>🤝 Open to any project, contact me?
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aleeeesf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
