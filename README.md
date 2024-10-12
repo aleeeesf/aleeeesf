@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently learning about Data Science and Machine Learning<br>⚡ Sometimes I go out of the box and like to try different areas like BackEnd Web development or Operating Systems.<br>🤝 Open to any project, contact me?
+🔭 I’m currently learning about Data Science, Machine Learning & Back-End dev with Django<br>⚡ 
+🌟 Always trying to making new projects or learning something new<br>
+🤝 Open to any project, contact me?
 
 
 ## 🌐 Socials:
