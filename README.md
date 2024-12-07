@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently learning about Data Science, Machine Learning & Back-End dev with Django<br>⚡ 
-🌟 Always trying to making new projects or learning something new<br>
+🔭 I’m currently on Data Science/Machine Learning & Back-End dev with Django<br>
+🚀 Always creating something new or exploring ways to take my skills to the next level<br>
 🤝 Open to any project, contact me?
 
 
