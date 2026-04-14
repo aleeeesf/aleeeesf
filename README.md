@@ -3,7 +3,7 @@
 ### Backend & AI Engineer focused on scalable systems, clean architecture, and AI-powered solutions
 
 🔹 Building reliable **Back-End systems** and **AI-driven applications**<br>
-🔹 Passionate about **system design**, **clean code**, and long-term maintainability**<br>
+🔹 Passionate about **system design**, **clean code**, and long-term maintainability<br>
 🔹 Working with **Generative AI**, **RAG architectures**, and **cloud-native solutions on AWS**<br>
 🔹 Always improving through continuous learning and hands-on experimentation
 
